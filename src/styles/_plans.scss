@@ -12,8 +12,8 @@
 
         &__item {
             text-align: center;
-            padding: 60px;
-            max-width: 360px;
+            padding: 60px 44px 44px;
+            max-width: 380px;
             width: 100%;
 
             &:nth-child(2) {
@@ -31,6 +31,10 @@
                 margin-top: 24px;
             }
         }
+    }
+
+    .button {
+        margin-top: 20px;
     }
 
     p {
